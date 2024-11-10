@@ -8,4 +8,9 @@ def sum(num1, num2):
     return num1 + num2
 
 
-print(f"El resultado de tu suma es: {sum(response1, response2)}")
+def substract(num1, num2):
+    return num1 - num2
+
+
+print(f"El resultado de la suma es: {sum(response1, response2)}")
+print(f"El resultado de la resta es: {substract(response1, response2)}")
