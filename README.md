@@ -17,10 +17,10 @@ Nicolás Baquero
 - [x] Push a repositorio remoto
 - [x] .gitignore
 - [x] git reset
-- [ ] Branches
+- [x] Branches
 - [ ] git pull
-- [ ] git merge
-- [ ] merge conflicts
+- [x] git merge
+- [x] merge conflicts
 - [ ] git rebase
 - [ ] git log
 - [ ] git blame
