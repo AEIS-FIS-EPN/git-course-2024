@@ -27,5 +27,5 @@ Nicolás Baquero
 - [x] Directorio .git
 - [x] Cambio de remote
 - [x] git clone y fork
-- [ ] git cherrypick
-- [ ] Gracias! 🚀
+- [x] git cherrypick
+- [x] Gracias! 🚀
