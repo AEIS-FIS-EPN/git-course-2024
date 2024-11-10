@@ -15,8 +15,8 @@ Nicolás Baquero
 - [x] Primeros comandos (git init, commit, status)
 - [x] Agregar repositorio remoto
 - [x] Push a repositorio remoto
-- [ ] .gitignore
-- [ ] git reset
+- [x] .gitignore
+- [x] git reset
 - [ ] Branches
 - [ ] git pull
 - [ ] git merge
