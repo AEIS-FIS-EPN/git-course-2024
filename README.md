@@ -18,7 +18,7 @@ Nicolás Baquero
 - [x] .gitignore
 - [x] git reset
 - [x] Branches
-- [ ] git pull
+- [x] git pull
 - [x] git merge
 - [x] merge conflicts
 - [x] git rebase
@@ -26,6 +26,6 @@ Nicolás Baquero
 - [x] git blame
 - [x] Directorio .git
 - [x] Cambio de remote
-- [ ] git clone y fork
+- [x] git clone y fork
 - [ ] git cherrypick
 - [ ] Gracias! 🚀
