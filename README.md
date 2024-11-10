@@ -12,9 +12,9 @@ Nicolás Baquero
 
 - [x] Qué es git y github
 - [x] Clientes de git
-- [ ] Primeros comandos (git init, commit, status)
-- [ ] Agregar repositorio remoto
-- [ ] Push a repositorio remoto
+- [x] Primeros comandos (git init, commit, status)
+- [x] Agregar repositorio remoto
+- [x] Push a repositorio remoto
 - [ ] .gitignore
 - [ ] git reset
 - [ ] Branches
