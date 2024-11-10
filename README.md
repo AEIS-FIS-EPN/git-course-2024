@@ -21,11 +21,11 @@ Nicolás Baquero
 - [ ] git pull
 - [x] git merge
 - [x] merge conflicts
-- [ ] git rebase
-- [ ] git log
-- [ ] git blame
-- [ ] Directorio .git
-- [ ] Cambio de remote
+- [x] git rebase
+- [x] git log
+- [x] git blame
+- [x] Directorio .git
+- [x] Cambio de remote
 - [ ] git clone y fork
 - [ ] git cherrypick
 - [ ] Gracias! 🚀
